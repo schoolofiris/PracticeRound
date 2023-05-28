@@ -1,0 +1,23 @@
+iris@ETIMAD-IRIS-PC:/mnt/d/CodeDevFolder/PracticeRound$ echo *.py | tr ' ' '\n'
+areas.py
+googlesert.py
+pyprog.py
+pythonNetworking.py
+tempCodeRunnerFile.py
+testlog.py
+testroute.py
+iris@ETIMAD-IRIS-PC:/mnt/d/CodeDevFolder/PracticeRound$ echo *.py | tr ' ' '\n' | ./areas.p
+y
+1  areas.py
+
+2  googlesert.py
+
+3  pyprog.py
+
+4  pythonNetworking.py
+
+5  tempCodeRunnerFile.py
+
+6  testlog.py
+
+7  testroute.py

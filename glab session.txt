@@ -1,0 +1,22 @@
+student-01-fa21213e23e1@34.28.125.138
+
+
+
+if test -e ~/data/jane_profile_07272018.doc; then echo "File exists"; else echo "File doesn't exist"; fi
+
+/data/jane_profile_07272018.doc
+
+
+y=/data/jane_profile_07272018.doc
+
+echo $HOME
+if test -e "$HOME$file"; then echo "File exists"; else echo "File doesn't exist"; fi
+
+with open(sys.stdin, r) as f:
+	file = f.readlines()
+	for line in file:
+		x = line.strip()
+		y = x.replace('jane','jdoe')
+		subprocess.run(['mv', x, y], stdout=subprocess.PIPE)
+f.close()
+

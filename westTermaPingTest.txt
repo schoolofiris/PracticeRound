@@ -1,0 +1,178 @@
+2023-05-27 07:20:10 Ping Test for West Island Started
+
+2023-05-27 07:21:38 West Island Disconnected
+2023-05-27 07:21:38 Connected back after 0 seconds
+
+2023-05-27 07:22:21 West Island Disconnected
+2023-05-27 07:22:21 Connected back after 0 seconds
+
+2023-05-27 07:23:18 West Island Disconnected
+2023-05-27 07:23:18 Connected back after 0 seconds
+
+2023-05-27 07:23:23 West Island Disconnected
+2023-05-27 07:23:27 Connected back after 4 seconds
+
+2023-05-27 07:23:32 West Island Disconnected
+2023-05-27 07:23:32 Connected back after 0 seconds
+
+2023-05-27 07:23:37 West Island Disconnected
+2023-05-27 07:23:37 Connected back after 0 seconds
+
+2023-05-27 07:24:11 West Island Disconnected
+2023-05-27 07:24:15 Connected back after 4 seconds
+
+2023-05-27 07:25:59 West Island Disconnected
+2023-05-27 07:25:59 Connected back after 0 seconds
+
+2023-05-27 07:26:23 West Island Disconnected
+2023-05-27 07:26:23 Connected back after 0 seconds
+
+2023-05-27 07:26:58 West Island Disconnected
+2023-05-27 07:26:58 Connected back after 0 seconds
+
+2023-05-27 07:27:05 West Island Disconnected
+2023-05-27 07:27:05 Connected back after 0 seconds
+
+2023-05-27 07:27:11 West Island Disconnected
+2023-05-27 07:27:15 Connected back after 4 seconds
+
+2023-05-27 07:27:35 West Island Disconnected
+2023-05-27 07:27:39 Connected back after 4 seconds
+
+2023-05-27 07:27:45 West Island Disconnected
+2023-05-27 07:27:45 Connected back after 0 seconds
+
+2023-05-27 07:28:01 West Island Disconnected
+2023-05-27 07:28:05 Connected back after 4 seconds
+
+2023-05-27 07:29:13 West Island Disconnected
+2023-05-27 07:29:13 Connected back after 0 seconds
+
+2023-05-27 07:29:20 West Island Disconnected
+2023-05-27 07:29:28 Connected back after 8 seconds
+
+2023-05-27 07:30:35 West Island Disconnected
+2023-05-27 07:30:35 Connected back after 0 seconds
+
+2023-05-27 07:31:38 West Island Disconnected
+2023-05-27 07:31:38 Connected back after 0 seconds
+
+2023-05-27 07:32:21 West Island Disconnected
+2023-05-27 07:32:21 Connected back after 0 seconds
+
+2023-05-27 07:32:36 West Island Disconnected
+2023-05-27 07:32:44 Connected back after 8 seconds
+
+2023-05-27 07:32:50 West Island Disconnected
+2023-05-27 07:32:58 Connected back after 8 seconds
+
+2023-05-27 07:37:42 West Island Disconnected
+2023-05-27 07:37:42 Connected back after 0 seconds
+
+2023-05-27 07:39:26 West Island Disconnected
+2023-05-27 07:39:26 Connected back after 0 seconds
+
+2023-05-27 07:39:36 West Island Disconnected
+2023-05-27 07:39:36 Connected back after 0 seconds
+
+2023-05-27 07:42:10 West Island Disconnected
+2023-05-27 07:42:18 Connected back after 8 seconds
+
+2023-05-27 07:43:42 West Island Disconnected
+2023-05-27 07:43:42 Connected back after 0 seconds
+
+2023-05-27 07:43:48 West Island Disconnected
+2023-05-27 07:43:56 Connected back after 8 seconds
+
+2023-05-27 07:44:02 West Island Disconnected
+2023-05-27 07:44:06 Connected back after 4 seconds
+
+2023-05-27 07:44:14 West Island Disconnected
+2023-05-27 07:44:18 Connected back after 4 seconds
+
+2023-05-27 07:45:07 West Island Disconnected
+2023-05-27 07:45:07 Connected back after 0 seconds
+
+2023-05-27 07:45:13 West Island Disconnected
+2023-05-27 07:45:13 Connected back after 0 seconds
+
+2023-05-27 07:45:22 West Island Disconnected
+2023-05-27 07:45:26 Connected back after 4 seconds
+
+2023-05-27 07:45:31 West Island Disconnected
+2023-05-27 07:45:31 Connected back after 0 seconds
+
+2023-05-27 07:46:43 West Island Disconnected
+2023-05-27 07:46:43 Connected back after 0 seconds
+
+2023-05-27 07:46:51 West Island Disconnected
+2023-05-27 07:46:51 Connected back after 0 seconds
+
+2023-05-27 07:48:55 West Island Disconnected
+2023-05-27 07:48:59 Connected back after 4 seconds
+
+2023-05-27 07:49:05 West Island Disconnected
+2023-05-27 07:49:09 Connected back after 4 seconds
+
+2023-05-27 07:49:20 West Island Disconnected
+2023-05-27 07:49:36 Connected back after 16 seconds
+
+2023-05-27 07:49:42 West Island Disconnected
+2023-05-27 07:50:10 Connected back after 28 seconds
+
+2023-05-27 07:50:15 West Island Disconnected
+2023-05-27 07:50:23 Connected back after 8 seconds
+
+2023-05-27 07:50:37 West Island Disconnected
+2023-05-27 07:50:41 Connected back after 4 seconds
+
+2023-05-27 07:50:47 West Island Disconnected
+2023-05-27 07:50:47 Connected back after 0 seconds
+
+2023-05-27 07:50:55 West Island Disconnected
+2023-05-27 07:51:03 Connected back after 8 seconds
+
+2023-05-27 07:51:08 West Island Disconnected
+2023-05-27 07:51:08 Connected back after 0 seconds
+
+2023-05-27 07:51:13 West Island Disconnected
+2023-05-27 07:51:49 Connected back after 36 seconds
+
+2023-05-27 07:51:56 West Island Disconnected
+2023-05-27 07:51:56 Connected back after 0 seconds
+
+2023-05-27 07:52:01 West Island Disconnected
+2023-05-27 07:52:01 Connected back after 0 seconds
+
+2023-05-27 07:52:08 West Island Disconnected
+2023-05-27 07:52:08 Connected back after 0 seconds
+
+2023-05-27 07:52:26 West Island Disconnected
+2023-05-27 07:52:26 Connected back after 0 seconds
+
+2023-05-27 07:55:51 West Island Disconnected
+2023-05-27 07:55:59 Connected back after 8 seconds
+
+2023-05-27 07:56:17 West Island Disconnected
+2023-05-27 07:56:17 Connected back after 0 seconds
+
+2023-05-27 07:57:06 West Island Disconnected
+2023-05-27 07:57:06 Connected back after 0 seconds
+
+2023-05-27 07:59:03 West Island Disconnected
+2023-05-27 07:59:11 Connected back after 8 seconds
+
+2023-05-27 07:59:16 West Island Disconnected
+2023-05-27 07:59:16 Connected back after 0 seconds
+
+2023-05-27 07:59:25 West Island Disconnected
+2023-05-27 07:59:33 Connected back after 8 seconds
+
+2023-05-27 07:59:38 West Island Disconnected
+2023-05-27 07:59:38 Connected back after 0 seconds
+
+2023-05-27 07:59:47 West Island Disconnected
+2023-05-27 07:59:51 Connected back after 4 seconds
+
+2023-05-27 08:00:02 West Island Disconnected
+/n2023-05-27 08:00:02 Ping Test for West Island Ended

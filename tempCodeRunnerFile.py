@@ -1,4 +1,3 @@
-mylabel = Label(root, text=api[0]['AQI'])
-# mylabel.pack()
-# mylabel = Label(root, text=api[0]['Category']['Name'])
-# mylabel.pack()
+if(deviceName and input_IP and minutes):
+        if ip_check or url_check or url2_check:  
+            s

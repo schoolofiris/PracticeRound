@@ -1,0 +1,22 @@
+total 24
+-rwxrwxrwx 1 iris iris   15 Apr  1 11:12 README.md
+-rwxrwxrwx 1 iris iris 8192 Apr  2 16:52 address_book.db
+-rwxrwxrwx 1 iris iris   24 Apr 30 00:45 areas.py
+-rwxrwxrwx 1 iris iris    0 May 17 19:43 areas.txt
+-rwxrwxrwx 1 iris iris  139 Apr 30 19:48 flowers.csv
+drwxrwxrwx 1 iris iris 4096 May  4 22:36 google cert practice
+-rwxrwxrwx 1 iris iris 1035 Apr 30 19:48 googlesert.py
+drwxrwxrwx 1 iris iris 4096 Apr  1 11:13 images
+-rwxrwxrwx 1 iris iris    0 May 17 00:16 myfile.txt
+-rwxrwxrwx 1 iris iris  103 May 17 00:31 pyprog.py
+-rwxrwxrwx 1 iris iris  730 Apr 29 23:58 pythonNetworking.py
+-rwxrwxrwx 1 iris iris 1035 May  6 19:09 regex sample for extracting log file.txt
+-rwxrwxrwx 1 iris iris  135 Apr  2 21:11 tempCodeRunnerFile.py
+-rwxrwxrwx 1 iris iris   68 May  6 21:46 testlog.py
+-rwxrwxrwx 1 iris iris  266 May  6 08:59 testroute.py
+-rwxrwxrwx 1 iris iris  909 May  6 21:39 working with log files.txt
+Wed May 17 21:31:42 +04 2023
+ 21:32:05 up  1:55,  0 users,  load average: 0.52, 0.58, 0.59
+               total        used        free      shared  buff/cache   available
+Mem:        16492932     5729792    10533788       17720      229352    10629408
+Swap:       23006404       58440    22947964

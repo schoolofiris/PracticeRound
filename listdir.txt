@@ -1,0 +1,4 @@
+-rwxrwxrwx 1 iris iris  420 May 17 23:34 bash scripting.txt
+-rwxrwxrwx 1 iris iris   84 May 21 13:35 bashfor.sh
+-rwxrwxrwx 1 iris iris  199 May 19 20:31 bashvar.sh
+-rwxrwxrwx 1 iris iris   94 May 20 22:03 forloopbash.sh
